@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C7861F11D5334C0F}Prefabs/Characters/Uniforms/Jacket_US_BDU.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
