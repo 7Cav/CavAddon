@@ -1,7 +1,7 @@
 GameProject {
  ID "CavAddon"
  GUID "5965042C56ADFCA2"
- TITLE "7th Cavalry Gaming Community Addon"
+ TITLE "7th Cavalry Community Addon"
  Dependencies {
   "58D0FB3206B6F859"
  }
